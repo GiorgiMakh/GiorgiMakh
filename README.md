@@ -2,6 +2,11 @@
 
 https://gist.github.com/GiorgiMakh
 
+----
+
+ <p align="center"><a href='https://ko-fi.com/iridiumio' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
+
+
 <!--
 **GiorgiMakh/GiorgiMakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
