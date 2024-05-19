@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://gist.github.com/GiorgiMakh
+[Gist](https://gist.github.com/GiorgiMakh)
 
 ----
 
