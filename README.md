@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[Gist](https://gist.github.com/GiorgiMakh)
-[GiorgiMakh.github.io](https://giorgimakh.github.io)
+<p><a href="https://gist.github.com/GiorgiMakh" target="_blank">Gist</a></p>
+<p><a href="https://giorgimakh.github.io" target="_blank">GiorgiMakh.github.io</a></p>
 
 ----
 
