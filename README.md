@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<p><a href="https://gist.github.com/GiorgiMakh" target="_blank">Gist</a></p>
-<p><a href="https://giorgimakh.github.io" target="_blank">GiorgiMakh.github.io</a></p>
-
 ----
 
  <p align="center"><a href='https://ko-fi.com/giorgimakh' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
